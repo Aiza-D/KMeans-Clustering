@@ -1,4 +1,22 @@
-<h3>KMeans Clustering</h3>
+<h1>Categorising countries</h1>
+<h2>Data Source</h2>
+The data used in this task was orginally sourced from Help.NGO. This international non-governmental organisation specialises in emergency response, preparedness, and risk mitigation.
+
+<h2>Dataset Attributes</h2>
+<b>country:</b> Name of the country<br>
+<b>child_mort:</b> Death of children under 5 years of age per 1000 live births<br>
+<b>exports:</b> Exports of goods and services per capita. Given as a percentage of the GDP per capita<br>
+<b>health:</b> Total health spending per capita. Given as a percentage of GDP per capita<br>
+<b>imports:</b> Imports of goods and services per capita. Given as a percentage of the GDP per capita<br>
+<b>income:</b> Net income per person<br>
+<b>inflation:</b> The measurement of the annual growth rate of the Total GDP<br>
+<b>life_expec:</b> The average number of years a new born child would live if the current mortality patterns remain the same<br>
+<b>total_fer:</b> The number of children that would be born to each woman if the current age-fertility rates remains the same<br>
+<b>gdpp:</b> The GDP per capita. Calculated as the Total GDP divided by the total population.<br>
+<h2>Objective</h2>
+To group countries using socio-economic and health factors to determine the development status of the country.
+
+<h1>KMeans Clustering</h1>
 
 Follow steps have been followed: <br>
 <ol>
