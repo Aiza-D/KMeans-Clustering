@@ -1,9 +1,11 @@
-<h1><ul>Table of contents</ul></h1>
+<h1>Table of contents</h1>
+<ul>
 <li>Data Source</li>
 <li>Data Attributes</li>
 <li>Objective</li>
 <li>Task Name</li>
-  <li>Steps followed</li>
+<li>Steps followed</li>
+  </ul>
 <h1>Categorising countries</h1>
 <h2>Data Source</h2>
 The data used in this task was orginally sourced from Help.NGO. This international non-governmental organisation specialises in emergency response, preparedness, and risk mitigation.
