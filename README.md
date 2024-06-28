@@ -26,7 +26,8 @@ To group countries using socio-economic and health factors to determine the deve
 
 <h1>KMeans Clustering</h1>
 <h2>Steps followed:</h2>
-Follow steps have been followed: <br>
+Follow steps have been followed: <br><br>
+
 <ol>
 <li>Loading the Country-data.csv dataset. </li>
 <li>Dropping any non-numeric columns from the dataset. </li>
