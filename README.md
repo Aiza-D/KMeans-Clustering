@@ -14,5 +14,6 @@ Follow steps have been followed: <br>
   	<li>Child mortality vs GDPP</li> 
   	<li>Inﬂation vs GDP</li>
      </ul>
-<li>Labeling the groups of countries in the plots created based on child mortality, GDPP, and inﬂation using terms such as: least developed, developing, and developed.</li>
+<li>Labeling the groups of countries in the plots created based on child mortality, GDPP, and inﬂation using terms such as: </li>
+  <ul>least developed, developing, and developed.</ul>
 </ul>
