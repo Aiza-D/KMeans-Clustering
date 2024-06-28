@@ -1,3 +1,9 @@
+<h1><ul>Table of contents</ul></h1>
+<li>Data Source</li>
+<li>Data Attributes</li>
+<li>Objective</li>
+<li>Task Name</li>
+  <li>Steps followed</li>
 <h1>Categorising countries</h1>
 <h2>Data Source</h2>
 The data used in this task was orginally sourced from Help.NGO. This international non-governmental organisation specialises in emergency response, preparedness, and risk mitigation.
@@ -17,7 +23,7 @@ The data used in this task was orginally sourced from Help.NGO. This internation
 To group countries using socio-economic and health factors to determine the development status of the country.
 
 <h1>KMeans Clustering</h1>
-
+<h2>Steps followed:</h2>
 Follow steps have been followed: <br>
 <ol>
 <li>Loading the Country-data.csv dataset. </li>
